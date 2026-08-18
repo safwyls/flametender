@@ -1,3 +1,13 @@
+> **This repository is retired.** Flametender lives in the
+> [sampo monorepo](https://github.com/safwyls/sampo) now — `core/` (the
+> shared console framework), `games/enshrouded/`, `cmd/flametender`,
+> `cmd/flameagent`, and `web/flametender`. The port was verified against
+> the live Enshrouded server on 2026-08-16, and the
+> `ghcr.io/safwyls/flametender` / `ghcr.io/safwyls/flameagent` images
+> (including `:latest`) publish from sampo since then. History is
+> preserved in sampo via subtree import. This repo is archived
+> read-only; file issues and PRs against sampo.
+
 # Flametender (flametender)
 
 A management console for self-hosted **Enshrouded** dedicated servers —
